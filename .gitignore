@@ -1,0 +1,33 @@
+# Python artifacts
+*.pyc
+*.pyo
+*.egg-info
+dist/
+build/
+__pycache__/
+
+# Django specific
+*.log
+*.pot
+*.db
+*.sqlite3
+
+# Virtual environment
+.venv/
+.env
+*.env*
+
+# IDEs
+.idea/
+.vscode/
+
+# Node.js (if you have frontend components)
+node_modules/
+
+# Static and media files (adjust depending on your STATIC_ROOT and MEDIA_ROOT settings)
+staticfiles/
+media/
+
+# OS generated
+.DS_Store
+*.swp
