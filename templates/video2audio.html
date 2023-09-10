@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Video</title>
+</head>
+<body>
+    <form method="post" enctype="multipart/form-data" action="{% url 'home' %}">
+        {% csrf_token %}
+        <input type="file" name="video">
+        <button type="submit">Upload</button>
+    </form>
+    {% if result %}
+    <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>

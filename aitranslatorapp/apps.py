@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class Text2Mp3Config(AppConfig):
+class AitranslatorappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'text2mp3'
+    name = 'aitranslatorapp'

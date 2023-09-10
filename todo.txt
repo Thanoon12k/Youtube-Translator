@@ -1,0 +1,18 @@
+
+
+1- complete video to text django app ❌
+
+install moviepy              ✅
+complete video to audio      ✅
+complete audio inhancer
+complete remove untextwords from audio
+convert audio to text
+
+
+
+
+2- complete  text to voice django app ❌
+
+3- complete  django translator inhancment app ❌
+
+4- deploy non -real time version that we upload video then get translated video to python anywhere ❌

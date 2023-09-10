@@ -10,11 +10,9 @@ A revolutionary Chrome extension and web tool designed to transform your YouTube
   
 - **Download & Translate**: Offers an option to download the video, process the translation offline, and then play the translated voice in sync with the original video.
   
-- **Muted Original Audio**: The original audio of the YouTube video is automatically muted when the translated audio is played, ensuring clarity and comprehension.
 
 - **Subtitle Support**: Generates subtitles in the chosen language, which can be toggled on or off as per user preference.
   
-- **Customizable Playback Speed**: Adjust the speed of the translated audio playback to match your comprehension level.
 
 - **Multi-language Support**: Provides translations in a plethora of languages, ensuring a global outreach.
 

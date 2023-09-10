@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AitranslateConfig(AppConfig):
+class Text2VoiceappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'aitranslate'
+    name = 'text2voiceapp'
